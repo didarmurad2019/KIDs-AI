@@ -45,3 +45,6 @@ Understand how machine learning works
 Build and present their own project
 <br>
 Be prepared to compete in Middle School or High School Science Fairs during the 2025–2026 season
+
+# ML Projects 
+https://colab.research.google.com/drive/1Xfvl3OBWgsGXMfMEvTYaHlHedbWZd7HZ#scrollTo=EpZSFhwV30vu
