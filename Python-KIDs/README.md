@@ -142,5 +142,5 @@ bark() and birthday() are methods — they belong to the dog and do actions.
 | **Data member** | A variable that stores information in the object |
 
 # Python coding link in Google colab
-COMING SOON
+https://colab.research.google.com/drive/1bFIsCrKCSVmPW55OEUFLOiC9JegE6pfv#scrollTo=20c57c1a-23de-414f-9911-5b7105f30bf3
 
