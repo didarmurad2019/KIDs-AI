@@ -1,4 +1,5 @@
-![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/ML-KIDs.PNG)
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/ML-KIDs.png)
+
 
 # Machine Learning Projects for Kids (Grades 6–9)🤖
 <br>
