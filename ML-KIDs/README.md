@@ -1,7 +1,7 @@
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/ML_KIDs.png)
 
 
-# Machine Learning Projects for Kids (Grades 6–9)🤖
+# 🤖 Machine Learning Projects for Kids (Grades 6–9)
 <br>
 Get Ready for the 2025–2026 Science Fair Season!
 <br>
@@ -10,7 +10,7 @@ Anyone can do data science!
 In this engaging and beginner-friendly bootcamp, students will learn how to use real machine learning tools to solve exciting problems — no prior experience needed.
 <br>
 
-# What Students Will Learn  🧠:
+# 🧠 What Students Will Learn:
 <br>
 Core concepts of machine learning
 <br>
@@ -23,7 +23,7 @@ Responsible AI and how to think critically about data
 How to present ML projects clearly and confidently
 <br>
 
-# Project-Based Learning 📈 
+# 📈 Project-Based Learning 
 
 Students will go through the full machine learning project life cycle:
 <br>
@@ -37,7 +37,7 @@ Testing results
 <br>
 Building a final presentation
 
-# Outcomes 🎯
+# 🎯 Outcomes 
 By the end of the course, students will:
 <br>
 Understand how machine learning works
