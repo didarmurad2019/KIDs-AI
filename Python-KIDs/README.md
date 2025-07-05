@@ -2,6 +2,8 @@
 <br>
 Welcome! Python is one of the easiest and most fun programming languages to learn. If you're a parent or teacher, this guide will help you introduce coding to kids in grades 6–9.
 <br>
+Python’s easy-to-read syntax makes it a great programming language to start coding for middle school students. Plus, it’s one of the most popular languages for developers. Students practice coding fundamentals through Python that they’ll use as they learn basics of the Artificial Intelligence.
+<br>
 How Can I Help My Kids Learn Python?👨‍👩‍👧‍👦 
 <br>
 Python is beginner-friendly and great for young learners.
