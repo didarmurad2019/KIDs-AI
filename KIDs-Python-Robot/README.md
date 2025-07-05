@@ -1,3 +1,5 @@
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/Python_Robot.png) 
+
 # 🤖 Using Python for Robot Programming
 <br> 
 Mini Interesting Projects for Kids (Ages 10–15)
